@@ -1,0 +1,9 @@
+# Python系 (backend)
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# React系 (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
